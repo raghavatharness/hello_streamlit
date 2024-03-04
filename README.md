@@ -1,4 +1,5 @@
-This repository contains a simple streamlit app for test purpose
+This repository contains a simple streamlit app for test purpose.
+
 The streamlit app has a button called 'say hello'.
 Upon clicking the button it prints 'hello world'.
 
